@@ -31,7 +31,7 @@ int led3 = 6;// the pin that the LED is attached to
 
 
 int ledlow = 15;
-int ledhigh = 110;
+int ledhigh = 100;
 int ledpwm = 0;
 int ledpwm2 = 0;
 int ledpwm3 = 0;
